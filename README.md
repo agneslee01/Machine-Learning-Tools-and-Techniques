@@ -1,0 +1,2 @@
+The overall aim of this assignment is to develop the best possible machine learning system to predict the genres of music. The task is to classify the music tracks into one of ten genres based on the provided audio features. The data for each track includes both textual features e.g. artist and track names, and numerical descriptors e.g. duration and various audio features. The hope is that the model will identify the relationship between music genres and the audio features.
+
